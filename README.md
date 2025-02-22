@@ -8,7 +8,7 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmilcas88206&show_icons=true&theme=radical)
+![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmilcas882&show_icons=true&theme=radical)
 
 ---
 

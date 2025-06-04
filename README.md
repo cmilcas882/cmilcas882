@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-💻 Actualmente me estoy especializando en **Ciberseguridad en Entornos de las Tecnologías de la Información** y esta es mi cuenta educativa con la que estoy aprendiendo a securizar en Puesta en Producción Segura.
+💻 Actualmente me estoy especializando en **Ciberseguridad en Entornos de las Tecnologías de la Información** en el IES Politécnico Jesús Marín junto a la mano de [Caballerog](https://github.com/Caballerog) y esta es mi cuenta educativa con la que estoy aprendiendo a securizar en Puesta en Producción Segura.
 
 ---
 

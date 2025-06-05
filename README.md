@@ -1,4 +1,4 @@
-# ¡Hola, soy Cristian! 👋
+# ¡Hola, soy Cristian! 👋🏼
 
 ## Sobre mí
 
